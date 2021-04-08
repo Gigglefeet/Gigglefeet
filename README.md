@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/róbert-már-mar%c3%aduson-a0735620b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/róbert-már-mar%c3%aduson-a0735620b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/robertmar.mariuson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/robertmar.mariuson" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/róbert már maríuson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="róbert már maríuson" height="30" width="40" /></a>
+<a href="https://fb.com/róbert már maríuson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="róbert már maríuson" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
