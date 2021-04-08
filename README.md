@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My gym application](https://github.com/Gigglefeet/gymapp)
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 I’m currently learning **React, Next.js, JavaScript.**
 
 - 📫 How to reach me **robertmariuson@gmail.com**
 
