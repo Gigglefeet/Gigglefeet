@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **robertmariuson@gmail.com**
 
-- ⚡ Fun fact **I always have a new years solution that involves quitting something for a year. This year I'm not eating any candy.(I know 2021 is the perfect year to not eat candy right? ;))**
+- ⚡ Fun fact **I always have a new years solution that involves quitting something for a year. This year I'm not eating candy or drinking alcohol, so nothing hard  ;))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
