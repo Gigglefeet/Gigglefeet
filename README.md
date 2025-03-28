@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **robertmariuson@gmail.com**
 
-- ⚡ Fun fact **I always have a new years solution that involves quitting something for a year. This year I'm not eating candy or drinking alcohol, so nothing hard  ;))**
+- ⚡ Fun fact **This year I'm trying to say yes to things I'd normally say no to  ;))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
