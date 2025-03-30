@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My PsyopsAi](https://github.com/Gigglefeet/psyopsai.git), and my [My HealthstackPage](https://github.com/Gigglefeet/healthstacks.com.git)
 
-- 🌱 I’m currently learning **React, Next.js, JavaScript.**
+- 🌱 I’m currently working with **React, Next.js, JavaScript and MDX**
 
 - 📫 How to reach me **robertmariuson@gmail.com**
 
