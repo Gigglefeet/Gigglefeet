@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My Book App](https://github.com/Gigglefeet/Starbooks-JoinedVersion), and my [My HealthstackPage](https://github.com/Gigglefeet/healthstacks.com.git)
 
-- 🌱 I’m currently working with **React, Next.js, JavaScript and MDX**
+- 🌱 I’m currently working with **, Swift, React, Next.js, JavaScript and MDX**
 
 - 📫 How to reach me **robertmariuson@gmail.com**
 
